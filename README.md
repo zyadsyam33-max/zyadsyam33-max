@@ -53,11 +53,11 @@ A front-end e-commerce project built using HTML, CSS, and JavaScript, with API i
 ------------------------------------
 🍽️ Delicious Recipes
 A front-end  project built using HTML, CSS, and JavaScript, with API integration and localStorage.
-🔗 **[View Delicious Recipes ](https://zyadsyam33-max.github.io/)**
+🔗 **[View Delicious Recipes ](https://zyadsyam33-max.github.io/Delicious-Recipes/)**
 ----------------------
 🎮 Gaming Project
 A front-end  project built using HTML, CSS, and JavaScript, with API integration and localStorage.
-🔗 **[View Gaming Project ](https://zyadsyam33-max.github.io/)**
+🔗 **[View Gaming Project ](https://zyadsyam33-max.github.io/Gaming-project/)**
 ---
 
 ## 🎯 Current Goals
