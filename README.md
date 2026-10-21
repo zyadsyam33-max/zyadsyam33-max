@@ -41,29 +41,23 @@ Building my skills in web development, learning Angular, and solving programming
 
 ## 🚀 Featured Projects
 
-🚀 My Projects
+### 🛒 Eco Store
+A front-end e-commerce project built using HTML, CSS, and JavaScript, with API integration and localStorage.
 
-🛍️ Store
+- Practiced fetching and displaying product data.
+- Implemented client-side data storage.
+- Built an interactive shopping experience.
 
-- "View Repository" (https://github.com/zyadsyan33-nex/store)
+🔗 **[View Eco Store](https://zyadsyam33-max.github.io/store/)**
 
+------------------------------------
 🍽️ Delicious Recipes
-
-- "View Repository" (https://github.com/zyadsyan33-nex/Delicious-Recipes)
-
-🔐 Login Page
-
-- "View Repository" (https://github.com/zyadsyan33-nex/login)
-
+A front-end  project built using HTML, CSS, and JavaScript, with API integration and localStorage.
+🔗 **[View Delicious Recipes ](https://zyadsyam33-max.github.io/)**
+----------------------
 🎮 Gaming Project
-
-- "View Repository" (https://github.com/zyadsyan33-nex/Gaming-project)
-
-
-💻 Other Projects
-
-- "Learning" (https://github.com/zyadsyan33-nex/learning)
-
+A front-end  project built using HTML, CSS, and JavaScript, with API integration and localStorage.
+🔗 **[View Gaming Project ](https://zyadsyam33-max.github.io/)**
 ---
 
 ## 🎯 Current Goals
